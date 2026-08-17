@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi! I'm Anju, a Python Full Stack Developer passionate about building practical and user-friendly web applications.<br><br>I enjoy turning ideas into functional applications and continuously improving my development skills through hands-on projects and learning.<br><br>🚀 Currently focused on growing as a Python Full Stack Developer and building real-world projects.
+Hi! I'm Anju, a Python Full Stack Developer and UI/UX Designer passionate about creating functional, intuitive, and user-friendly digital experiences.
 
+I enjoy combining development and design to turn ideas into practical web applications and engaging user experiences.
+
+🚀 Currently focused on growing my skills in Python Full Stack Development and UI/UX Design through hands-on projects and continuous learning.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anju007mv@gmail.com) 
