@@ -12,7 +12,5 @@ Hi! I'm Anju, a Python Full Stack Developer passionate about building practical 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-[![](https://komarev.com/ghpvc/?username=ANJU M VENUGOPAL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
